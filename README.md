@@ -17,6 +17,6 @@ Application Open: **11th January 2021**
 
 Application Deadline: **15th January 2021**
 
-To apply, please complete the form in this [application Link](https://redcap.icipe.org/redcap/surveys/?s=KMH79XLEDJ)
+To apply, please complete the form in this [application Link](https://redcap.icipe.org/redcap/surveys/?s=LA47CHHJWC)
 
-For queries, please [raise an issue](https://github.com/kipkurui/call_for_Bioinfo_internship_cohort2/issues) in this repo. 
+For queries, please [raise an issue](https://github.com/mbbu/call_for_Bioinfo_internship_cohort2/issues) in this repo. 
